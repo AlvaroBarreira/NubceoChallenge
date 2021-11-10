@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.btn__sort {
+    font-size: 20px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    display: flex;
+    font-family: 'Mohave', sans-serif;
+}
+
+@media screen and (max-width: 968px) {
+    .card-container {
+     
+        grid-template-columns: repeat(2, 1fr);
+     
+    }
+}
