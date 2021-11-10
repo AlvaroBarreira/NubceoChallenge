@@ -23,42 +23,42 @@ Challenge for "Nubceo". This App was made with React Js and React-Bootstrap, you
 
 ## Guide
 
-* Routes: 
+## Routes: 
     * Login: "/"
     * Home: "/home"
     * List: "/list"
 
-* Login with any email and password:
+## Login with any email and password:
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/login.png)
 
 
 
-* In Home, click "Get Started" to go List bands:
+## In Home, click "Get Started" to go List bands:
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/go.png)
 
 
 
-* Filter by Band name or Genre name
+## Filter by Band name or Genre name
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/filter1.png)
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/filter2.png)
 
 
 
-* Sorting alphabetically
+## Sorting alphabetically
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/sorting.png)
 
 
 
-* Refresh
+## Refresh
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/refresh.png)
 
 
 
-* View information of a specific band
+## View information of a specific band
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/about.png)
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/info.png)
 
 
 
-* Logout 
+## Logout 
 ![Image text](https://github.com/AlvaroBarreira/NubceoChallenge/blob/main/src/Images/logout.png)
