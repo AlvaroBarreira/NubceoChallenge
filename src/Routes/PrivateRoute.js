@@ -5,7 +5,7 @@ function PrivateRoute(props) {
 
     const logged = localStorage.getItem("token")
 
-    if (logged === null) return <Redirect to="/login"/>
+    if (logged === null) return <Redirect to="/"/>
 
     return (
 
