@@ -4,7 +4,7 @@
 WebSite: "https://challenge-nubceo.vercel.app/"
 
 ## Description
-Challenge for "Nubceo". This App was made with React Js and React-Bootstrap, you can Login and navegate around the pages, Filter a especific Band and Sorting, and view more information about the Band.
+Challenge for "Nubceo". This App was made with React Js and React-Bootstrap. In this app you can Login and navegate around the pages, Filter a especific Band and Sorting, and view more information about the Band.
 
 
 ## Technology used
