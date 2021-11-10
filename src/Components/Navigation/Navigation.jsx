@@ -22,10 +22,9 @@ function Navigation() {
 
                 <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                     <Nav className="drop">
-                        <Nav.Link className="justify-content-center text-white" href="/home">Home</Nav.Link>
-                        <Nav.Link className="justify-content-center text-white" href="/list">Bands</Nav.Link>
+                        <Nav.Link className="justify-content-center text-white" onClick={() => history.push("/")}>Home</Nav.Link>
+                        <Nav.Link className="justify-content-center text-white" onClick={() => history.push("/list")}>Bands</Nav.Link>
                         <Nav.Link className="justify-content-center text-white" onClick={() => logOut()}>Log Out</Nav.Link>
-
                     </Nav>
                 </Navbar.Collapse>
             </Container>
